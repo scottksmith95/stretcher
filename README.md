@@ -1,7 +1,7 @@
 Stretcher
 ================
 
-Extension methods for .NET build in types.
+Extension methods for .NET built-in types.
 
 ##Nuget Package
 
