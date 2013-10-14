@@ -8,7 +8,6 @@
     <owners>$author$</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
     <projectUrl>https://github.com/scottksmith95/stretcher</projectUrl>
-    <iconUrl></iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>Initial release.</releaseNotes>
